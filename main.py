@@ -20,7 +20,7 @@ if not "001" in numerical_value :
       install("apt upgrade -y")
       install("pkg update -y")
       install("pkg upgrade -y")
-      install("pkg install node -y")
+      install("pkg install nodejs -y")
       install("pkg install php -y")
       install("npm install @whiskeysockets/baileys qrcode express cors pino")
       install("npm install qrcode")
@@ -32,7 +32,7 @@ if not "001" in numerical_value :
      elif op == "linux" or op == "Linux" or  op == "2" :
       install("apt update -y")
       install("apt upgrade -y")
-      install("apt install node -y")
+      install("apt install nodejs -y")
       install("apt install php -y")
       install("npm install @whiskeysockets/baileys qrcode express cors pino")
       install("npm install qrcode")
