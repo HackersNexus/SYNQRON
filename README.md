@@ -44,6 +44,7 @@ cd SYNQRON
 
 ### 📦 2. For Termux
 ```bash
+pkg install git -y
 pkg update -y
 pkg upgrade -y 
 pkg install python -y 
@@ -54,6 +55,7 @@ apt upgrade -y
 # For Linux 
 apt update 
 apt upgrade
+apt install git
 apt install python 
 ```
 
