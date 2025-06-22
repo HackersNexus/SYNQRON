@@ -49,7 +49,8 @@ pkg upgrade -y
 pkg install python -y 
 apt update -y 
 apt upgrade -y 
-
+```
+```bash
 # For Linux 
 apt update 
 apt upgrade
@@ -59,7 +60,8 @@ apt install python
 ### 🚀 3. Start the tool in termux
 ```bash
 python main.py 
-
+```
+```bash
 # Start the tool in linux
 python3 main.py
 ```
@@ -69,7 +71,7 @@ python3 main.py
 
 
 
-## 📸 Demo
+## 📸 Webpage
 
 ![Webpage Screenshot](https://raw.githubusercontent.com/HackersNexus/SYNQRON/refs/heads/main/Screen_shot/IMG_20250622_074942.jpg)
 
